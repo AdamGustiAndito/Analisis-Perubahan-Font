@@ -25,7 +25,6 @@ Proyek kali ini bertujuan untuk mencari tahu perilaku pengguna aplikasi dari per
 - **Python** (Pandas, Matplotlib, Seaborn, Plotly, Scipy)
 - **Jupyter Notebook**
 - **Tableau** (Visualisasi dashboard)
-- **Machine Learning** (Model prediksi & clustering)
 
 ---
 💡 **Dibuat oleh:** Adam Gusti Andito  
